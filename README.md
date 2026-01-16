@@ -1,1 +1,1 @@
-# COMP215_Labs
+# COMP2152_Labs
